@@ -17,12 +17,17 @@
 先在head中加入style的標籤
 <br >
 設定外框
+<br >
 ![Alt text](image.png)
+<br >
 設定小格
 <br >
 並且使用animation-name、nimation-duration、animation-iteration-count分別設定動畫名稱定義、動畫播放時間、動畫執行次數。
+<br >
 ![Alt text](image-1.png)
+<br >
 最後套用到body中
+<br >
 ![Alt text](image-2.png)
 
 ## 個人認為完成作業須具備觀念
